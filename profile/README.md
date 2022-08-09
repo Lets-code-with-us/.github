@@ -1,12 +1,10 @@
 ## Hi there 👋
 
-<!--
+Hello contributers, we have create a community on Github for students/professionals who love to contribute in open source projects. 
 
-**Here are some ideas to get you started:**
+Things you can do in this community !
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://guides.github.com/features/mastering-markdown/)
--->
+1. Create and manage new projects. <br>
+2. Contribute in the existing projects.<br>
+3. Discuss and share your knowledge on latest technologies.<br>
+4. Help others to contribute and can give suggestions.<br>

@@ -10,5 +10,7 @@ Things you can do in this community !
 3. Discuss and share your knowledge on latest technologies.<br>
 4. Help others to contribute and can give suggestions.<br>
 
-For any query dm us here - https://www.instagram.com/lets__code/
-LinkedIn page - https://www.linkedin.com/company/lets-code-forever/
+For any query dm us here - https://www.instagram.com/lets__code/ <br> 
+LinkedIn page - https://www.linkedin.com/company/lets-code-forever/ <br>
+Telegram channel- https://t.me/offcampusjobsupdatess
+Whatsapp group- https://chat.whatsapp.com/J2QG1qQg5Qc8euTvY0bt5s

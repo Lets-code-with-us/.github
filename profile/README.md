@@ -12,5 +12,5 @@ Things you can do in this community !
 
 For any query dm us here - https://www.instagram.com/lets__code/ <br> 
 LinkedIn page - https://www.linkedin.com/company/lets-code-forever/ <br>
-Telegram channel- https://t.me/offcampusjobsupdatess
-Whatsapp group- https://chat.whatsapp.com/J2QG1qQg5Qc8euTvY0bt5s
+Telegram channel- https://t.me/offcampusjobsupdatess <br>
+Whatsapp group- https://chat.whatsapp.com/J2QG1qQg5Qc8euTvY0bt5s <br>

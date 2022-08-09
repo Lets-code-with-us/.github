@@ -1,5 +1,5 @@
 
-Hello contributers, we have create this community on for students/professionals who love to contribute in open source projects. 
+Hello contributers, we have create this community for students/professionals who love to contribute in open source projects. 
 
 Things you can do in this community !
 

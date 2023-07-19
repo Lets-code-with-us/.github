@@ -1,14 +1,13 @@
 
 #### Hello contributers 👋
 
-We have created this community for students/professionals who love to contribute in open source projects. 
+At Let's Code , we are dedicated to empowering individuals in their tech journey by providing free study materials and job updates. Our mission is to make quality tech education accessible to everyone, regardless of their background or financial constraints.
 
-Things you can do in this community !
+We understand the importance of staying up-to-date with the ever-evolving technology landscape. That's why we curate and provide comprehensive study materials on various tech topics, ranging from programming languages and web development to data science, artificial intelligence, and beyond. 
 
-1. Create and manage new projects. <br>
-2. Contribute in the existing projects.<br>
-3. Discuss and share your knowledge on latest technologies.<br>
-4. Help others to contribute and can give suggestions.<br>
+Educational guidance is primarily concerned with the student's success in their educational career. We guide students to achieve their dream jobs by providing proper guidance and resources.
+
+We also help students improve their resumes, LinkedIn profiles, and GitHub profiles. So don't wait, reach out to us for any help!
 
 For any query dm us here - https://www.instagram.com/lets__code/ <br> 
 [LinkedIn page](https://www.linkedin.com/company/lets-code-forever/) <br>

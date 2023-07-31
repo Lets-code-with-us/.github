@@ -9,7 +9,8 @@ Educational guidance is primarily concerned with the student's success in their 
 
 We also help students improve their resumes, LinkedIn profiles, and GitHub profiles. So don't wait, reach out to us for any help!
 
-For any query dm us here - https://www.instagram.com/lets__code/ <br> 
+For any query dm us here - 
+[Instagram](https://www.instagram.com/lets__code/) <br> 
 [LinkedIn page](https://www.linkedin.com/company/lets-code-forever/) <br>
 [Telegram channel](https://t.me/offcampusjobsupdatess) <br>
 [Whatsapp group](https://chat.whatsapp.com/J2QG1qQg5Qc8euTvY0bt5s) <br>

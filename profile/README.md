@@ -28,6 +28,6 @@ Ready to embark on your tech journey with Let's Code? Join our organization on G
 [![Instagram](https://img.shields.io/badge/Follow%20on-Instagram-orange)](https://www.instagram.com/lets__code/)
 [![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-blue)](https://www.linkedin.com/company/lets-code-forever/)
 [![Telegram](https://img.shields.io/badge/Join%20on-Telegram-blue)](https://t.me/offcampusjobsupdatess)
-[![WhatsApp](https://img.shields.io/badge/Join%20on-WhatsApp-green)](https://chat.whatsapp.com/J2QG1qQg5Qc8euTvY0bt5s)
+[![WhatsApp](https://img.shields.io/badge/Join%20on-WhatsApp-green)](https://whatsapp.com/channel/0029Va9IblC7dmecjzkkn811)
 
 Don't wait—let's code together and unlock the possibilities!

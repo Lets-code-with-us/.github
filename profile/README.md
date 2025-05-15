@@ -15,9 +15,9 @@ Welcome to **Let's Code**, where we empower developers through open-source colla
 
 | Project | Description | Tech Stack | Contributors Welcome? |
 |---------|-------------|------------|----------------------|
-| [Project A](link) | Short description | Python, React | ✅ |
-| [Project B](link) | Short description | JavaScript, Node | ✅ |
-| [Project C](link) | Short description | AI/ML | 🔧 Needs help |
+| [Project A]() | Short description | Python, React | ✅ |
+| [Project B]() | Short description | JavaScript, Node | ✅ |
+
 
 [View All Projects →](https://github.com/Lets-code-with-us)
 
@@ -42,7 +42,7 @@ We maintain educational content to help you grow:
 - [PYQ's](https://www.lets-code.co.in/previousyearcodingquestion/pyqs/)
 - [Linkedin & Resume optimizer](https://www.lets-code.co.in/dashboard/)
 
-[Explore Resources →](link)
+[Explore Resources →](https://www.lets-code.co.in/)
 
 ## 💬 Join Our Community
 
